@@ -1,0 +1,18 @@
+
+h1{
+    color:rgb(10, 51, 87) ;
+}
+
+body{
+    color: white ;
+    background-color: black ;
+    display: flex ;
+    flex-direction: column ;
+    justify-content: center ;
+    align-items: center ;
+    height: 100vh ;
+}
+
+.container{
+
+}
