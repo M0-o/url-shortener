@@ -5,7 +5,7 @@
 
 
 
-GET http://localhost:3000/access/659eadb4c3826a8c6293dda8
+GET http://localhost:3000/localhost:3000/findAll
 
 
 
